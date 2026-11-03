@@ -1,0 +1,7 @@
+{
+  "name": "williamchelman-skills",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "williamchelman",
+  "owner": {
+    "name": "William Chelman",
+    "url": "https://github.com/WilliamChelman"
+  },
+  "description": "William Chelman's personal Claude Code plugin marketplace.",
+  "plugins": [
+    {
+      "name": "williamchelman-skills",
+      "source": "./",
+      "description": "William Chelman's personal skills vault for Claude Code.",
+      "keywords": ["skills", "claude-code", "personal"]
+    }
+  ]
+}

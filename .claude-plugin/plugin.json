@@ -1,0 +1,12 @@
+{
+  "name": "williamchelman-skills",
+  "description": "William Chelman's personal skills vault for Claude Code.",
+  "author": {
+    "name": "William Chelman",
+    "url": "https://github.com/WilliamChelman"
+  },
+  "homepage": "https://github.com/WilliamChelman/skills",
+  "repository": "https://github.com/WilliamChelman/skills",
+  "license": "MIT",
+  "keywords": ["skills", "claude-code", "personal"]
+}
