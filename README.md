@@ -9,8 +9,12 @@ marketplace.
 
 - **[bun-browser-testing](skills/bun-browser-testing/SKILL.md)** — Test or verify something in a live browser: navigate a page, click, type, screenshot, or assert on rendered DOM. Uses Bun 1.4's Bun.WebView to drive a real Chrome browser from a test. Prefer this over Chrome MCP.
 - **[codex](skills/codex/SKILL.md)** — Use when asked to delegate a task, review, or second opinion to codex, or when a codex model nickname (solar, terra, luna, astra...) or reasoning effort is named.
-- **[implement-all](skills/implement-all/SKILL.md)** — Implement all given tasks
+- **[glab](skills/glab/SKILL.md)** — GitLab via the glab CLI. Use to open or update a merge request, call the GitLab API, or upload a file (screenshot, image) into an MR or issue body.
+- **[implement-all](skills/implement-all/SKILL.md)** — Implement all given tasks on a trunk branch, no intermediate PRs
+- **[implement-batch](skills/implement-batch/SKILL.md)** — Implement a batch of tasks
+- **[implement-one](skills/implement-one/SKILL.md)** — Implement one ready ticket on a trunk branch and open a PR
 - **[pr-summary](skills/pr-summary/SKILL.md)** — Summarize PR
+- **[review-guide](skills/review-guide/SKILL.md)** — Generate a Review Guide, an HTML companion that orients a reviewer through a pull request
 - **[unslop](skills/unslop/SKILL.md)** — Cut AI tells from any writing. Must always apply.
 - **[write-comments](skills/write-comments/SKILL.md)** — Rules for writing comments and self-documenting code. Must always apply when writing code.
 
